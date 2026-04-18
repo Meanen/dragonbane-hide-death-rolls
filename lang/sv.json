@@ -1,0 +1,14 @@
+{
+  "DB-HDR": {
+    "settings": {
+      "visibility": {
+        "name": "Dödsslagssynlighet",
+        "option": {
+          "public": "Publikt",
+          "private": "Privat",
+          "blind": "Blind"
+        }
+      }
+    }
+  }
+}

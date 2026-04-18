@@ -1,0 +1,47 @@
+{
+    "id": "dragonbane-hide-death-rolls",
+    "title": "Dragonbane - Hide death rolls",
+    "version": "0.1",
+    "compatibility": {
+        "minimum": "13",
+        "verified": "13"
+    },
+    "relationships": {
+        "systems": [
+            {
+                "id": "dragonbane",
+                "type": "system",
+                "compatibility": {
+                    "minimum": "3.0",
+                    "verified": "4.0"
+                }
+            }
+        ]
+    },
+    "esmodules": [
+        "app.js"
+    ],
+    "styles": [],
+    "authors": [
+        {
+            "name": "Meanen",
+            "flags": {}
+        }
+    ],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        },
+        {
+            "lang": "sv",
+            "name": "Svenska",
+            "path": "lang/sv.json"
+        }
+    ],
+    "socket": true,
+    "url": "https://github.com/Meanen/dragonbane-hide-death-rolls",
+    "manifest": "",
+    "download": ""
+}

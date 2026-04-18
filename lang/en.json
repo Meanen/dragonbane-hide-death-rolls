@@ -1,0 +1,14 @@
+{
+  "DB-HDR": {
+    "settings": {
+      "visibility": {
+        "name": "Death roll visibility",
+        "option": {
+          "public": "Public",
+          "private": "Private",
+          "blind": "Blind"
+        }
+      }
+    }
+  }
+}
